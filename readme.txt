@@ -1,1 +1,1 @@
-readme
+Repositório para disciplina de Banco-de-dados-II
